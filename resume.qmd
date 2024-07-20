@@ -1,89 +1,81 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aaron Harrison's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aaron Harrison
+Data Scientist, Organizational Network Scientist, Adjunct Professor
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://www.linkedin.com/in/aaron-harrison/">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Lorem ipsum
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2004-2011`
+__Brigham Young University__ Chemical Engineering, B.S.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2011-2015`
+__Purdue University__ Chemical Engineering, PhD
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2021`
+System for offline processing of organizational networks, US 10992776 · Issued Apr 1, 2021
+
+`2020`
+Engineered Polymer Detection Swab, US 10794796 · Issued Oct 6, 2020
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
+`2024`
+__Adjunct Professor of Data Science__, Brigham Young University - Idaho
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Introducing students to the power (and practicality) of Python in all things Data Science
+
+`2023`
+__Workforce Analytics Specialist__, Idaho National Laboratory
+
+- Creating data-driven solutions through people analytics to help secure our energy future by enabling today's scientists, engineers, technicians, and other professionals to do their best, collaborative work. 
+
+`2022`
+__Sr. Data and Applied Scientist__, Microsoft
+
+- Developed the newest tools for Microsoft Viva.
+
+`2017`
+__Data and Applied Scientist__, Microsoft
+
+- Designed tools for Fortune 500 companies that extract insights from their own big data to help them improve collaboration behaviors that lead to more innovation.
+
+`2016`
+__Postdoctoral Researcher__, Los Alamos National Laboratory
+
+- Designed an experimental, lab-scale flow battery for concentrated solar power applications
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2024 -->
